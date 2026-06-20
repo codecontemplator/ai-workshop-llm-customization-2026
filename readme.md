@@ -1,6 +1,6 @@
 # AI Workshop on LLM:s and how to customize them
 
-[Slides](./slides)
+[Slides](https://codecontemplator.github.io/ai-workshop-llm-customization-2026/)
 
 
 ## Running the slides locally 
