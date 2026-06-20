@@ -1,0 +1,4 @@
+To view it: you need to serve it via HTTP (reveal.js markdown plugin won't load local files via file://). Simplest way:
+cd ai-workshop-slides
+npx serve .
+Then open http://localhost:3000 in your browser.
