@@ -15,5 +15,5 @@ Then open http://localhost:3000 in your browser.
 
 ## Labs
 
-The labs are made for [Google colab](https://colab.research.google.com/). A free account and free tier is enough. Just import the notebocks in the labs folder.
+The labs are made for [Google colab](https://colab.research.google.com/). A free account and free tier is enough. Just import the notebooks in the labs folder.
 
