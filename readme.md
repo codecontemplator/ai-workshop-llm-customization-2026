@@ -6,7 +6,7 @@
 ## Running the slides locally 
 
 ```batch
-cd slides
+cd docs
 npx serve .
 ```
 
